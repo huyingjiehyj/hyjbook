@@ -1,0 +1,23 @@
+{
+  "name": "hyjbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyingjiehyj/hyjbook.git"
+  },
+  "keywords": [],
+  "author": "huyingjiehyj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huyingjiehyj/hyjbook/issues"
+  },
+  "homepage": "https://github.com/huyingjiehyj/hyjbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
